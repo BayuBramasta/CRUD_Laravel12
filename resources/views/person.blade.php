@@ -49,7 +49,7 @@
     </div>
     <div class="container-fluid p-3">
         <h2>Made by Bayu</h2>
-        <p>Designed with Laravel Ver. 12 <br>Source code: https://github.com/BayuBramasta <br>License: Free</p>
+        <p>Designed with Laravel Ver. 12 <br>Source code: https://github.com/BayuBramasta/CRUD_Laravel12 <br>License: Free</p>
     </div>
 </body>
 
